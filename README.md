@@ -6,7 +6,7 @@ Primeiramente essa é a primeira vez que escrevo em markdown ta ligado, sim.
 
 ```python
 print("cala boca galvão")
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk'
+'kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk'
 ```
 ```
 ⠄⠄⢀⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿⣿⠄
