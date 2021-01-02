@@ -2,7 +2,7 @@
 
 Primeiramente essa é a primeira vez que escrevo em markdown ta ligado, sim.
 
-##EOF
+## EOF
 
 ```python
 print("cala boca galvão")
